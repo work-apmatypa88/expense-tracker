@@ -1,0 +1,4 @@
+/expense-tracker
+*.exe
+expenses.csv
+.idea/
